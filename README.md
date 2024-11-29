@@ -1,10 +1,7 @@
 Data Analyst & Data Engineer
 
 💻 Especialista em:
-
-    Python | SQL | Power BI | Pentaho
-    Data Warehousing | Data Lakes | PySpark
-    Visualização de Dados e ETL
+Python | SQL | Power BI | PentahoData Warehousing | Data Lakes | PySparkVisualização de Dados e ETL
 
 <!---
 andredinizia/andredinizia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
